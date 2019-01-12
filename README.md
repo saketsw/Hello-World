@@ -1,2 +1,2 @@
 # Hello-World
-This is my FIRST Hello World to GitHub.
+Guys this will be my first commit to the Production ever in Guthub. I am excited.
